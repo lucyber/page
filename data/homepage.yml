@@ -11,9 +11,11 @@ showcase:
   image:
     alt: "LU Cyber Defense Club"
     x:  "/images/logo/Black-Logo.png"
+    _2x: "/images/logo/Black-Logo.png"
   imageMobile:
     alt: "LU Cyber Defense Club"
     x:  "/images/logo/Black-Logo.png"
+    _2x: "/images/logo/Black-Logo.png"
 
   socialLinks:
     - icon: "linkedin"
