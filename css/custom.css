@@ -22,3 +22,9 @@ p {
     color: #fff;
     font-size: medium;
 }
+
+@media (max-width:1000px) {
+    .container .navbar {
+        margin: 5%;
+    }
+}
