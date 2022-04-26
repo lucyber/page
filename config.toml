@@ -35,6 +35,11 @@ theme = "raditian-free-hugo-theme"
   URL = "#contact"
   weight = 2
 
+  [[menu.header]]
+  name = "Cyberguide"
+  URL = "https://guide.lucyber.club"
+  weight = 2
+
 
 [params]
 
