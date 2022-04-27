@@ -1,7 +1,6 @@
 # homepage
-homepage:
-  head:
-    title: "LU Cyber Defense Club"
+head:
+  title: "LU Cyber Defense Club"
 # showcase
 showcase:
   enable: true

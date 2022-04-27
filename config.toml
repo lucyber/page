@@ -1,4 +1,5 @@
 baseURL = "https://lucyber.club/"
+title = "LU Cyber Defense Club"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
